@@ -7,9 +7,9 @@
 <br>
 
 <p align='center'>
-<a href='https://devhints.io/'><img src='_docs/images/screenshot.png' width=600></a>
+<a href='https://eiuapp.github.io/cheatsheets/'><img src='_docs/images/screenshot.png' width=600></a>
 <br>
-✨ <b><a href='https://devhints.io/'>devhints.io</a></b> ✨
+✨ <b><a href='https://eiuapp.github.io/cheatsheets/'>eiuapp's cheatsheets</a></b> ✨
 </p>
 
 <br>
@@ -17,3 +17,4 @@
 ---
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for developer notes.
+

@@ -76,15 +76,15 @@ Here are some badges for open source projects.
 
 ### Acknowledgements
 
-    **PROJECTNAME** © 2014+, Rico Sta. Cruz. Released under the [MIT] License.<br>
-    Authored and maintained by Rico Sta. Cruz with help from contributors ([list][contributors]).
+    **PROJECTNAME** © 2019+, EIUApp. Released under the [MIT] License.<br>
+    Authored and maintained by eiuapp. Cruz with help from contributors ([list][contributors]).
 
-    > [ricostacruz.com](http://ricostacruz.com) &nbsp;&middot;&nbsp;
-    > GitHub [@rstacruz](https://github.com/rstacruz) &nbsp;&middot;&nbsp;
-    > Twitter [@rstacruz](https://twitter.com/rstacruz)
+    > [eiuapp](http://eiuapp.github.io) &nbsp;&middot;&nbsp;
+    > GitHub [@eiuapp](https://github.com/eiuapp) &nbsp;&middot;&nbsp;
+    > Twitter [@eiuapp](https://twitter.com/tomtsang1987)
 
-    [MIT]: http://mit-license.org/
-    [contributors]: http://github.com/rstacruz/nprogress/contributors
+    <!-- [MIT]: http://mit-license.org/ -->
+    <!-- [contributors]: http://github.com/rstacruz/nprogress/contributors -->
 
 ### Links
 
